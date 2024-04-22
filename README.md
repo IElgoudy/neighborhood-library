@@ -17,4 +17,4 @@ Welcome to the Neighborhood Library Portal! This is a simple Java program that h
 
 ## Feedback and Contributions
 
-We welcome feedback and contributions to make this program better! If you encounter any issues, have ideas for improvements
+We welcome feedback and contributions to make this program better! If you encounter any issues, have ideas for improvements please let me know.
